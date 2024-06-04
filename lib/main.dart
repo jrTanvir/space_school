@@ -32,7 +32,8 @@ class _MyHomePageState extends State<MyHomePage> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Text('Space School Mobile Application')
+            Text('Space School Mobile Application'),
+            Text('for testing purpose'),
           ],
         ),
       ),
